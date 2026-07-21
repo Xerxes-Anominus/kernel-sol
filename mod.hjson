@@ -1,0 +1,15 @@
+name: kernel-sol
+displayName: "Kernel: Sol"
+
+description: "
+    Add a new Kernel solar system for another [#0000ff[]]Xe[#0066ff[]]rx[#00ccff[]]es[#ffffff[]] Kernel mod.
+
+    ---[#ff0000[]]Not Playable[#ffffff[]]---[[]]"
+subtitle: ""
+
+author: "[#0000ff[]]Xe[#0066ff[]]rx[#00ccff[]]es[[]]"
+
+version: 1
+minGameVersion: 159
+
+hidden: true
